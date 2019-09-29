@@ -9,7 +9,7 @@
 
 def meal_choice(veg1, veg2, protein = "meat")
   puts "A plate of #{protein} with #{veg1} and #{veg2}."
-  "A plate of tofu with broccoli and macaroni."
+  "A plate of  with broccoli and macaroni."
 
 end
 
